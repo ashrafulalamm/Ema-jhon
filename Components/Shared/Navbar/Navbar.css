@@ -1,0 +1,44 @@
+.navbar {
+    background: #1C2B35;
+    width: 100%;
+  
+}
+
+.header  { 
+    margin: auto;
+     padding: 0px 140px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{ 
+    
+}
+
+nav{ 
+   
+}
+
+nav ul{
+    padding: 0px;
+    display: flex;
+    list-style: none;
+ }
+ 
+nav ul li{ 
+    padding: 0 0 0 36px; 
+}
+
+nav ul li a{
+    color: #FFF;
+
+/* Body 1 */
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.085px;
+text-decoration: none;
+}

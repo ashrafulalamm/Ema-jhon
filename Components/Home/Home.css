@@ -1,0 +1,70 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 150px 140px;
+}
+.home-left{
+
+}
+.home-left h5{
+    color: #F90;
+
+    /* Subtitle 1 */
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.026px;}
+
+.home-left h1{
+    margin-bottom: 0px;
+    color: #1C2B35;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.9px;
+}
+
+.home-left p{
+    margin-top: 7px;
+    color: #2A414F;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.06px;
+}
+
+
+.home-left button {
+    margin-top: 78px;
+    width: 203px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    color: #0E161A;
+    /* H5 */
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: all 0.3s;
+}
+.home-left button:hover{
+    background: rgba(255, 153, 0, 0);
+}
+
+
+.home-right{
+
+}
+.home-right img{
+
+}
